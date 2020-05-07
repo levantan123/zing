@@ -1,0 +1,152 @@
+div.trencung{
+    height: 50px;
+    border-top: 1.2px solid black;
+    border-bottom: 1px solid gainsboro;
+    display: flex;
+    margin-bottom: 20px;
+    position: relative;
+}
+div.trencung a{
+    height: 50px;
+    
+}
+div.trencung input.a2{
+    width: 200px;
+    height: 20px;
+    position: absolute;
+    top:13px;
+    right: 189px;
+    opacity: 0;
+    visibility: hidden;
+}
+div.trencung input.ra{
+    opacity: 1;
+    visibility: visible;
+}
+div.trencung a img{
+    margin-left: 90px;
+    height: 50px;
+    width: 80px;
+    
+}
+div.trencung ul{
+    list-style: none;
+    color: black;
+    margin-right: 80px;
+    
+}
+div.trencung ul li{
+    display: inline-block;
+    padding-right: 10px;
+}
+div.trencung ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+    font-size: 10px;
+}
+div.trencung ul li a:hover{
+   
+    color: rgb(11, 176, 241);
+}
+div.trencung .a{
+    text-decoration: none;
+    color: black;
+    line-height: 50px;
+    padding-right: 10px;
+}
+div.trencung .a:hover{
+    color: rgb(7, 224, 214);
+}
+div.giua{
+    display: flex;
+    margin-left: 90px;
+    font-family: arial;   
+}
+div.giua .giuat{
+    display: flex;
+    width: 280px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid gainsboro;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    
+}
+div.giua .giuat a{
+    text-decoration: none;
+    color: black;
+    height: 10px;
+    
+}
+div.giua .giuat a:hover{
+    color: rgb(15, 168, 214);
+}
+div.giua .giuat a img{
+    height: 80px;
+    padding-right: 10px;
+}
+span{
+    font-size: 14px;
+}
+div.giua .giuag {
+   width: 370px;
+   margin-right: 10px;
+}
+div.giua .giuag a.a1{
+    text-decoration: none;
+    color: black;
+}
+div.giua .giuag a.a1:hover{
+    color: rgb(15, 168, 214);
+}
+div.giua .giuag a.a1 img{
+    height: 270px;
+}
+div.giua .giuag a.a1 span{
+    display: block;
+    font-size: 20px;
+    padding-top: 10px;
+}
+div.giua .giuag p{
+    display: block;
+    font-size: 14px;
+}
+div.giua .giuag ul{
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    margin-left: 12px;
+}
+
+div.giua .giuag li a{
+    text-decoration: none;
+    color: black;
+}
+div.giua .giuag li a:hover{
+    color: rgb(13, 193, 224);
+}
+.giuap{
+    width: 220px;
+    
+}
+.giuap a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding-bottom: 30px;
+}
+.giuap a:hover{
+    color: rgb(8, 201, 235);
+}
+.giuap a span{    
+    padding-top: 5px;
+}
+.giuap a img{
+    height: 150px;
+}
+div.duoi{
+    background-color: rgb(240, 178, 8);
+    height: 460px;
+    width: 920px;
+    margin-left: 70px;
+}
